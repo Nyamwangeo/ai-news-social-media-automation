@@ -2,7 +2,7 @@
 
 An AI-powered n8n automation system that researches current news, verifies sources, removes duplicate stories, ranks content by relevance, generates platform-specific posts and manages publishing across LinkedIn, Facebook and X.
 
-![Workflow Overview](docs/screenshots/complete-workflow.png)
+![Workflow Overview] https://github.com/Nyamwangeo/ai-news-social-media-automation/blob/main/docs_screenshots_complete-workflow.png 
 
 ## Project Overview
 
